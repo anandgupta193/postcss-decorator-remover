@@ -7,7 +7,13 @@
 [ci]:      https://travis-ci.org/anandgupta193/postcss-decorator-remover
 
 ```css
+@mobile
 .foo {
+    /* Input example */
+}
+
+@web
+.bar {
     /* Input example */
 }
 ```
